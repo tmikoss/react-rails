@@ -1,8 +1,8 @@
-[![Gem](https://img.shields.io/gem/v/react-rails.svg?style=flat-square)](http://rubygems.org/gems/react-rails)
-[![Build Status](https://img.shields.io/travis/reactjs/react-rails/master.svg?style=flat-square)](https://travis-ci.org/reactjs/react-rails)
-[![Gemnasium](https://img.shields.io/gemnasium/reactjs/react-rails.svg?style=flat-square)](https://gemnasium.com/reactjs/react-rails)
-[![Code Climate](https://img.shields.io/codeclimate/github/reactjs/react-rails.svg?style=flat-square)](https://codeclimate.com/github/reactjs/react-rails)
-[![Test Coverage](https://img.shields.io/codeclimate/coverage/github/reactjs/react-rails.svg?style=flat-square)](https://codeclimate.com/github/reactjs/react-rails/coverage)
+* * *
+
+A fork of react-rails 1.4.2, coaxed to work with Rails >5.0
+
+Please don't use this, it's a very specific hack for a very specific situation, some features might (read: will) be broken.
 
 * * *
 
